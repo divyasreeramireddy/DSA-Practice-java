@@ -1,4 +1,4 @@
-//find gcd of given two numbers.
+//find gcd of given two numbers.(optimized version)
 class Solution {
     public static int gcd(int a, int b) {
         // code here
