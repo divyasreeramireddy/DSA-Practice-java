@@ -1,4 +1,4 @@
-//count the number of digits present in a number
+//Given a positive integer n, count the number of digits in n that divide n evenly (i.e., without leaving a remainder). Return the total number of such digits.
 class Solution {
     static int evenlyDivides(int n) {
         // code here
